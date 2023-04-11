@@ -1,0 +1,12 @@
+p {
+    font-size: 5em;
+    align-self: center;
+    display: flex;
+}
+div {
+    justify-content: center;
+    display: flex;
+}
+body {
+    background-color: beige;
+}
